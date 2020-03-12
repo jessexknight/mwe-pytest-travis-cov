@@ -4,4 +4,4 @@ debug:
 
 .PHONY: tests
 tests:
-	pytest tests/
+	pytest --cov=project/ tests/
