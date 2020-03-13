@@ -1,7 +1,5 @@
-.PHONY: debug
 debug:
 	python debug.py
 
-.PHONY: tests
-tests:
+runtests:
 	pytest --cov=project/ tests/
