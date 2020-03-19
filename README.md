@@ -1,7 +1,7 @@
 # MWE: Pytest, Travis-CI, Codecov
 
-![travis](https://travis-ci.com/jessexknight/project.svg?branch=master)
-![codecov](https://codecov.io/gh/jessexknight/project/branch/master/graph/badge.svg)
+![travis](https://travis-ci.com/jessexknight/mwe-pytest-travis-cov.svg?branch=master)
+![codecov](https://codecov.io/gh/jessexknight/mwe-pytest-travis-cov/branch/master/graph/badge.svg)
 
 ## About
 
